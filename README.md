@@ -1,4 +1,4 @@
-# Data-Transformation-using-ETL-tool-Alteryx
+# ETL_using Alteryx
 
 In this the Altryx ETL tool will take a user info CSV file as input and computes Age and categorizes each Age Group.
 ![1](https://user-images.githubusercontent.com/88301987/227077922-51c6368b-c12d-4070-9bfe-e7abb931b5d5.png)
